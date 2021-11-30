@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class largestTwo {
     // Write a program to find largest of two numbers

@@ -1,12 +1,12 @@
-import java.until.scanner;
+import java.until.*;
 
 public class ifCondition {
     //Write a program to check if a candidate is eligble for voting or not
 
     public static void main(Strings[] args) {
-        Scanner scan = new Scanner(System.in);
+        sc = new Scanner(System.in);
         System.out.println("Enter the age of person");
-        user_age= scan.nextInt();
+        user_age = sc.nextInt();
         System.out.println("The age of person is" + user_age);
 
         if(user_age >18){
