@@ -9,9 +9,9 @@ public class doEven {
         
             num = sc.nextInt();
             a =1;
-            System.out.print("Numbers are": " ");
+            System.out.print("Numbers are:" + " ");
         do{
-            if(a%2==1 && a%2==0){
+            a= a%2==1 && a%2==0){
             System.out.print( a+ " ");
             
             }
@@ -23,3 +23,5 @@ public class doEven {
         
         sc.close();
 }
+        }
+    }
