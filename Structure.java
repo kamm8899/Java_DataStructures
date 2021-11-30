@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Structure {
 // write program to use all the data types and given arithmetic operatons 
     public static void main(String [] args){
@@ -19,6 +20,7 @@ public class Structure {
         
         --num1;
         ++num2;
+        input.close();
     }
-    input.close();
+   
 }
